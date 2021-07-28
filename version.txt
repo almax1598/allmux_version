@@ -1,1 +1,1 @@
-{"version":"1","link":"https://www.google.com","media":"https://www.google.com","uback":""}
+{"version":"1","link":"https://www.google.com","media":"http://allmux.bio.link","uback":""}
